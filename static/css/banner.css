@@ -1,0 +1,34 @@
+.banner{
+    color: #fff;
+    background: black;
+    padding: 20px;
+    text-align: center;
+    vertical-align: center;
+    text-transform: uppercase;
+}
+
+.banner-size-1{
+    font-size:15rem;
+}
+
+.banner-size-2{
+    font-size:12rem;
+}
+
+.banner-size-3{
+    font-size:9rem;
+}
+
+.banner-size-4{
+    font-size:6rem;
+}
+
+.banner-size-5{
+    font-size:3rem;
+}
+
+.banner-box {
+	position: relative;
+	width: 100%;		/* desired width */
+    height: 100vh;
+}
